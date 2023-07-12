@@ -1,7 +1,7 @@
 # HW1_Composite
 
 ### Domain Model Class Diagram (DCMD)
-![domain-model](https://drive.google.com/file/d/16rGAGN4qCnBfjBKs8NWYQG3iyi730gLI/view?usp=sharing)
+![Domain_Model_Diagram](https://github.com/kanhaiya09/CSE_5322_Design_Pattern/assets/34772291/a4504b12-65dc-4e74-88f8-615254bae6fd)
 
 
 ### Expanded Use Case
@@ -73,9 +73,13 @@ Step 4. System paints the shape at the position clicked.
 
 
 ### Informal Sequence Diagram
+![Infromal_Sequence_Diagram](https://github.com/kanhaiya09/CSE_5322_Design_Pattern/assets/34772291/11c39486-83bd-4ad1-8918-88f0b199a9da)
+
 
 ### Formal Sequence Diagram
+![Formal_Sequence_Diagram](https://github.com/kanhaiya09/CSE_5322_Design_Pattern/assets/34772291/98633761-8573-4478-a4e0-d97936710538)
 
 ### Design Class Diagram
+![Design_Class_Diagram](https://github.com/kanhaiya09/CSE_5322_Design_Pattern/assets/34772291/4fa613ef-f0c4-4988-b4eb-17a2b5d80d84)
 
 
