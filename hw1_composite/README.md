@@ -4,7 +4,7 @@
 ![Domain_Model_Diagram](https://github.com/kanhaiya09/CSE_5322_Design_Pattern/assets/34772291/a4504b12-65dc-4e74-88f8-615254bae6fd)
 
 
-### Expanded Use Case
+## Expanded Use Case
 | Actor : User | System : Paint |
 |------------- |----------------|
 | 0. System displays 3 buttons and canvas drawing area. ||
@@ -13,7 +13,7 @@
 | 5. **TUCEW** User sees the desired shape                 |
 
 
-### Non Trivial Steps
+## Non Trivial Steps
 
 Step 2. System knows the shape to draw
 
@@ -47,7 +47,7 @@ Step 4. System paints the shape at the position clicked.
 
 4.5 PaintGUI displays shape to user.
 
-### Scenario Table
+## Scenario Table
 1. System knows the shape to draw
 
 | **#** | **Subject** | **Action** | **Object** | **Other Data** |
@@ -72,14 +72,14 @@ Step 4. System paints the shape at the position clicked.
 | 4.6 | PaintGUI | Displays | Shape | User |
 
 
-### Informal Sequence Diagram
+## Informal Sequence Diagram
 ![Infromal_Sequence_Diagram](https://github.com/kanhaiya09/CSE_5322_Design_Pattern/assets/34772291/11c39486-83bd-4ad1-8918-88f0b199a9da)
 
 
-### Formal Sequence Diagram
+## Formal Sequence Diagram
 ![Formal_Sequence_Diagram](https://github.com/kanhaiya09/CSE_5322_Design_Pattern/assets/34772291/98633761-8573-4478-a4e0-d97936710538)
 
-### Design Class Diagram
+## Design Class Diagram
 ![Design_Class_Diagram](https://github.com/kanhaiya09/CSE_5322_Design_Pattern/assets/34772291/4fa613ef-f0c4-4988-b4eb-17a2b5d80d84)
 
 ## Demo
